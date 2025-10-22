@@ -177,6 +177,8 @@ Having MIN(age)<25;
 **Output:**
 
 <img width="570" height="289" alt="image" src="https://github.com/user-attachments/assets/088159d0-7362-4bd8-bccc-0a7f1fed9a05" />
+
+
 ## Grade
   <img width="1359" height="99" alt="image" src="https://github.com/user-attachments/assets/136586e4-8d82-42f4-89ae-0558f769193e" />
 
