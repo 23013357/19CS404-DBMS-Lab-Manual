@@ -207,7 +207,7 @@ join salesman s on c.salesman_id=s.salesman_id;
 <img width="1043" height="747" alt="image" src="https://github.com/user-attachments/assets/05d2407c-1741-4eda-a48b-446a98f4ee2e" />
 
 ## Grade
-<img width="1393" height="65" alt="image" src="https://github.com/user-attachments/assets/3841add5-ad4f-4119-8ab9-d0c74aefc895" />
+<img width="1390" height="79" alt="image" src="https://github.com/user-attachments/assets/39c3a756-43c9-4a6f-b2fc-88bb14c9d43f" />
 
 
 ## RESULT
